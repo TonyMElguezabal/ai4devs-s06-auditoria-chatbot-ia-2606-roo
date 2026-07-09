@@ -1,0 +1,15 @@
+# SO / editores
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Python (bonus Presidio)
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Modelos locales (bonus Ollama) — no subir pesos de modelos
+*.gguf
+*.bin
