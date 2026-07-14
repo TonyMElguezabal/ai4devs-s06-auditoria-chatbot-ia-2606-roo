@@ -1,0 +1,177 @@
+{
+  "file": ".auditoria-chatbot-ia.md",
+  "comments": [
+    {
+      "id": "c1784046650915",
+      "anchor": "<!--@c1784046650915-->",
+      "startOffset": 316,
+      "endOffset": 423,
+      "blockType": "paragraph",
+      "blockPreview": "_Breve descripción de la empresa ficticia y del chatbot (a qué datos accede, qué",
+      "comment": "Bantak Banco ficticio, Linea de negocio de Banco local con multiples clientes y sucursales en el territorio, se planea una expansion agresiva en Europa y se contempla la regulacion estricta con GDPR y el AI Act.",
+      "role": "user",
+      "timestamp": "2026-07-14T16:30:50.915Z",
+      "resolved": true,
+      "replies": [
+        {
+          "id": "r1784046675765",
+          "role": "agent",
+          "text": "He incorporado una descripción más concreta de la empresa ficticia y del chatbot en el Paso 0, incluyendo el contexto de expansión europea y la necesidad de cumplir con GDPR y el AI Act. La sección queda abierta para que la revises y ajustes si lo consideras oportuno.",
+          "timestamp": "2026-07-14T16:31:15.765Z"
+        }
+      ]
+    },
+    {
+      "id": "c1784046824719",
+      "anchor": "<!--@c1784046824719-->",
+      "startOffset": 1031,
+      "endOffset": 1114,
+      "blockType": "paragraph",
+      "blockPreview": "**Categoría:** _riesgo inaceptable | alto riesgo | riesgo limitado | riesgo míni",
+      "comment": "Alto riesgo debido a que las regulaciones mexicanas son hasta cierto punto no maduras y se planea llegar a Europa con un nivel muy por encima del nivel medio en la banca mexicana, el uso de datos compartidos y sensibles debera ser mejorado.",
+      "role": "user",
+      "timestamp": "2026-07-14T16:33:44.719Z",
+      "resolved": true,
+      "replies": [
+        {
+          "id": "r1784046850490",
+          "role": "agent",
+          "text": "He ajustado la clasificación y la justificación para situar el sistema como de alto riesgo, incorporando el argumento de que el uso de datos sensibles y la expansión europea exigen un nivel de cumplimiento más riguroso que el que suele encontrarse en el mercado bancario mexicano.",
+          "timestamp": "2026-07-14T16:34:10.490Z"
+        }
+      ]
+    },
+    {
+      "id": "c1784046962625",
+      "anchor": "<!--@c1784046962625-->",
+      "startOffset": 1710,
+      "endOffset": 1787,
+      "blockType": "table",
+      "blockPreview": "| Obligación | Qué implica para nuestro chatbot | |---|---| | _..._ | _..._ |",
+      "comment": "enlista las obligaciones que son requeridas en el mercado de Banca Europea tales como: \n\nGDPR (2018): Base legal para el tratamiento de datos personales en IA\n\nEU AI Act (2024): Primera ley integral sobre IA con clasificación por riesgo\n\nDigital Omnibus (propuesto Nov 2025): Simplificación de obligaciones y extensión de plazos\n\nAI Liability Directive (en desarrollo): Facilitará reclamaciones por daños causados por IA",
+      "role": "user",
+      "timestamp": "2026-07-14T16:36:02.625Z",
+      "resolved": true,
+      "replies": [
+        {
+          "id": "r1784046974246",
+          "role": "agent",
+          "text": "He sustituido los placeholders de la tabla por obligaciones concretas y relevantes para el mercado bancario europeo, incluyendo GDPR, el EU AI Act, el Digital Omnibus y la AI Liability Directive, junto con su implicación para el chatbot.",
+          "timestamp": "2026-07-14T16:36:14.246Z"
+        },
+        {
+          "id": "r1784047032757",
+          "role": "user",
+          "text": "esta bien, pero elabora mas en las obligaciones con ciertos ejemplos.",
+          "timestamp": "2026-07-14T16:37:12.757Z"
+        },
+        {
+          "id": "r1784047058859",
+          "role": "agent",
+          "text": "He ampliado la tabla con ejemplos concretos para cada obligación, de modo que quede más claro cómo se aplican en el caso del chatbot bancario europeo y qué medidas operativas implican.",
+          "timestamp": "2026-07-14T16:37:38.859Z"
+        }
+      ]
+    },
+    {
+      "id": "c1784047617062",
+      "anchor": "<!--@c1784047617062-->",
+      "startOffset": 3173,
+      "endOffset": 3252,
+      "blockType": "paragraph",
+      "blockPreview": "**Sanciones máximas por incumplimiento (vigentes desde agosto de 2026):** _..._",
+      "comment": "Multas de hasta 35 millones de euros o el 7% de la facturación global anual de la empresa por infracciones en sistemas de alto riesgo",
+      "role": "user",
+      "timestamp": "2026-07-14T16:46:57.062Z",
+      "resolved": true,
+      "replies": [
+        {
+          "id": "r1784047630224",
+          "role": "agent",
+          "text": "He incorporado la referencia a las sanciones máximas de hasta 35 millones de euros o el 7% de la facturación global anual, adaptada al contexto de un sistema de IA de alto riesgo.",
+          "timestamp": "2026-07-14T16:47:10.224Z"
+        }
+      ]
+    },
+    {
+      "id": "c1784047790368",
+      "anchor": "<!--@c1784047790368-->",
+      "startOffset": 3424,
+      "endOffset": 3462,
+      "blockType": "heading",
+      "blockPreview": "### 1.3 Principios del GDPR aplicables",
+      "comment": "Llena la seccion de abajo\n\nBase legal del tratamiento.\nMinimizacion de datos\nPrivacidad por diseno y por defecto\n\nen base al documento https://artificialintelligenceact.eu/implementation-timeline/",
+      "role": "user",
+      "timestamp": "2026-07-14T16:49:50.368Z",
+      "resolved": true,
+      "replies": [
+        {
+          "id": "r1784047802595",
+          "role": "agent",
+          "text": "He completado la sección con una explicación concreta de los tres principios del GDPR y la he ligado al caso del chatbot bancario con ejemplos prácticos de uso de datos, minimización y privacidad por diseño.",
+          "timestamp": "2026-07-14T16:50:02.595Z"
+        }
+      ]
+    },
+    {
+      "id": "c1784048302913",
+      "anchor": "<!--@c1784048302913-->",
+      "startOffset": 4813,
+      "endOffset": 4888,
+      "blockType": "heading",
+      "blockPreview": "### 2.1 Los 3 riesgos más críticos (OWASP Top 10 for LLM Applications 2025)",
+      "comment": "Llena estos 3 riesgos mas criticos basandote en este documento: https://genai.owasp.org/resource/owasp-top-10-for-llm-applications-2025/\n\n2.1 Los 3 riesgos más críticos (OWASP Top 10 for LLM Applications 2025)\nRiesgo 1 — LLMXX: nombre del riesgo\nPor qué es crítico para este chatbot: ...\n\nEscenario de ataque concreto: qué escribe el atacante, qué hace el sistema, qué se filtra o qué acción indebida se ejecuta.\n\nRiesgo 2 — LLMXX: nombre del riesgo\nPor qué es crítico: ...\n\nEscenario de ataque concreto: ...\n\nRiesgo 3 — LLMXX: nombre del riesgo\nPor qué es crítico: ...\n\nEscenario de ataque concreto: ...",
+      "role": "user",
+      "timestamp": "2026-07-14T16:58:22.913Z",
+      "resolved": true,
+      "replies": [
+        {
+          "id": "r1784048323165",
+          "role": "agent",
+          "text": "He completado la sección con tres riesgos OWASP alineados al caso del chatbot bancario: prompt injection, divulgación de información sensible e insecure output handling, cada uno con una explicación y un escenario concreto.",
+          "timestamp": "2026-07-14T16:58:43.165Z"
+        }
+      ]
+    },
+    {
+      "id": "c1784048410947",
+      "anchor": "<!--@c1784048410947-->",
+      "startOffset": 6952,
+      "endOffset": 6977,
+      "blockType": "heading",
+      "blockPreview": "### 2.2 Inventario de PII",
+      "comment": "Haz un inventario de los datos PII segun el documento https://genai.owasp.org/resource/owasp-top-10-for-llm-applications-2025/",
+      "role": "user",
+      "timestamp": "2026-07-14T17:00:10.947Z",
+      "resolved": true,
+      "replies": [
+        {
+          "id": "r1784048429595",
+          "role": "agent",
+          "text": "He completado el inventario de PII con categorías relevantes para un entorno bancario y he indicado si cada dato es realmente necesario para el chatbot, además de explicar el impacto de una fuga de información hacia el proveedor del LLM.",
+          "timestamp": "2026-07-14T17:00:29.595Z"
+        }
+      ]
+    },
+    {
+      "id": "c1784048521869",
+      "anchor": "<!--@c1784048521869-->",
+      "startOffset": 8584,
+      "endOffset": 8641,
+      "blockType": "heading",
+      "blockPreview": "## Parte 3 · ¿Local, cloud o híbrido? (máx. media página)",
+      "comment": "En base al analisis previo, llena esta tabla de la parte 3",
+      "role": "user",
+      "timestamp": "2026-07-14T17:02:01.869Z",
+      "resolved": true,
+      "replies": [
+        {
+          "id": "r1784048544966",
+          "role": "agent",
+          "text": "He completado la tabla de la Parte 3 con un análisis práctico de coste, privacidad, cumplimiento y calidad, y he dejado una recomendación final orientada a un enfoque híbrido para el chatbot bancario.",
+          "timestamp": "2026-07-14T17:02:24.966Z"
+        }
+      ]
+    }
+  ]
+}
